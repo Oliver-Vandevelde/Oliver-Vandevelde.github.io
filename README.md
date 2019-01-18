@@ -1,4 +1,4 @@
-# Hello, I'm Oliver Vandevelde
+# Hello, I'm Oliver Vandevelde!
 
 ### JuniorDev | Novice
 
