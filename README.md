@@ -1,8 +1,4 @@
-# Hello, I'm Oliver
+# Hello, I'm Oliver Vandevelde
 
-|compétences  |Niveaux|
-| ----------- |:-----:|
-|Html/css     |   0   |
-|JavaScript   |   1   |
-|GitHub       |   1   |
+All-star Dev | Code Fanatic | Linux Hacker | Bleh
 
